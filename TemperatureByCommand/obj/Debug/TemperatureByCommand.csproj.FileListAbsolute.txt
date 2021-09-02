@@ -1,0 +1,17 @@
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\bin\Debug\TemperatureByCommand.exe.config
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\bin\Debug\TemperatureByCommand.exe
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\bin\Debug\TemperatureByCommand.pdb
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\TemperatureByCommand.csproj.AssemblyReference.cache
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\MainWindow.g.cs
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\App.g.cs
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\TemperatureByCommand_MarkupCompile.cache
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\TemperatureByCommand_MarkupCompile.lref
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\MainWindow.baml
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\TemperatureByCommand.g.resources
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\TemperatureByCommand.Properties.Resources.resources
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\TemperatureByCommand.csproj.GenerateResource.cache
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\TemperatureByCommand.csproj.CoreCompileInputs.cache
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\TemperatureByCommand.exe
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\TemperatureByCommand.pdb
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TRAINING\WPF-BhavanaMaam\TemperatureByCommand\TemperatureByCommand\obj\Debug\App.baml
